@@ -1,0 +1,9 @@
+A B 2
+A C 30
+A D 45
+B E 1
+C H 1
+D G 1
+E F 4
+E G 2
+H G 1
