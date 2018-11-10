@@ -1,0 +1,2 @@
+# aStarSearchAlgorithm
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/313b3cc464794282b6542df30efd804a)](https://app.codacy.com/app/yasserkabbout/aStarSearchAlgorithm?utm_source=github.com&utm_medium=referral&utm_content=yasserkabbout/aStarSearchAlgorithm&utm_campaign=Badge_Grade_Dashboard)
